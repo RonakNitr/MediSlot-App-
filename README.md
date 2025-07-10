@@ -60,12 +60,10 @@ Follow these steps to run the project on your local machine:
    - Ensure you have your MongoDB instance set up.
    - Register on the website and update MongoDB 'isAdmin' field to 'true' for admin access.
 
-## Connect with Me
 
-- **LinkedIn:** [Abhay Singh]([https://linkedin.com/your-profile](https://www.linkedin.com/in/abhay-pratap-singh-108804219/))
-- **Email:** Abhaystudent2002@gmail.com
+- **Email:** ronakror176@gmail.com
 
 
 ---
 
-Owner: Abhay Singh
+Owner: Ronak
