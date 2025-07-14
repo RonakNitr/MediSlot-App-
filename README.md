@@ -57,8 +57,8 @@ Follow these steps to run the project on your local machine:
    ```
 
 5. **Access Admin Dashboard:**
-   - Ensure you have your MongoDB instance set up.
-   - Register on the website and update MongoDB 'isAdmin' field to 'true' for admin access.
+   - Ensure you have your MongoDB instance set up and work.
+   - Register on the website and update MongoDB 'isAdmin' field to 'true' for admin access .
 
 
 - **Email:** ronakror176@gmail.com
