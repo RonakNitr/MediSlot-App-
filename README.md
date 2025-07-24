@@ -61,7 +61,7 @@ Follow these steps to run the project on your local machine:
    - Register on the website and update MongoDB 'isAdmin' field to 'true' for admin access .
 
 
-- **Email:** ronakror176@gmail.com
+- **Email:-**ronakror176@gmail.com
 
 
 ---
